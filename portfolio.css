@@ -544,6 +544,7 @@ transition: transform .4s;
 .projects__image {
        display: block;
     overflow: hidden;
+    
 }
 .resume__container{
     row-gap:4rem;
